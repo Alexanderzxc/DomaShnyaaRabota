@@ -1,4 +1,5 @@
-import random
+#Изменение
+import random 
 den=1
 sitost=15
 dengi=30
